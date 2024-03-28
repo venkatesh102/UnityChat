@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/unitychat.git
+git clone https://github.com/venkatesh102/unitychat.git
 Navigate to the project directory:
 
 bash
