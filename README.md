@@ -10,27 +10,4 @@ Efficient Data Management: Firebase Firestore provides efficient storage and ret
 Technologies Used
 Flutter: Cross-platform framework for building mobile applications.
 Firebase: Backend-as-a-Service (BaaS) platform for authentication, data storage, and real-time database services.
-Dart: Programming language used for Flutter app development.
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/venkatesh102/unitychat.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd unitychat
-Install dependencies:
-
-arduino
-Copy code
-flutter pub get
-Run the app:
-
-arduino
-Copy code
-flutter run
-Contributing
-Contributions are welcome! If you'd like to contribute to UnityChat, please follow the contribution guidelines.
+Dart: Programming language used for Flutter app development
