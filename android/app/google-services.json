@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074423232589",
+    "project_id": "seekos",
+    "storage_bucket": "seekos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074423232589:android:ab8c545f93ab74bde54404",
+        "android_client_info": {
+          "package_name": "com.example.seekos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074423232589-bp8mdpijogr4le29ev2largvu7ptg4n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbuVYCR_cmH87Wbi3GA6kuMRApVMoWVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074423232589-bp8mdpijogr4le29ev2largvu7ptg4n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
